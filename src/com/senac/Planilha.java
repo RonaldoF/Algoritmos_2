@@ -6,7 +6,6 @@ import com.senac.algoritmos.AvaliadorRPN;
 
 public class Planilha {
 	public static void main(String[] args) throws Exception {
-
 		String comando = "";
 		Scanner sc = new Scanner(System.in);
 
